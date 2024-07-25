@@ -70,3 +70,7 @@ Run Expo
 Appwrite Dashboard
 
 ![Appwrite](./assets/git/appwrite.png)
+
+## Contact information
+
+If you have any questions, feel free to discuss and research together. My contact information is net510909@hotmail.com
