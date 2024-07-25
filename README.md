@@ -1,8 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome to your Expo app 👋, using appwrite
+
+This project references [JavaScript Mastery](https://www.youtube.com/@javascriptmastery), a very good teaching YouTube channel!
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+
+0. Create .env file, copy from .env.example
 
 1. Install dependencies
 
@@ -48,3 +52,21 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Demo
+
+App Landing
+
+![App Landing](./assets/git/landing.png)
+
+iPhone
+
+![iPhone](./assets/git/photo_app.jpeg)
+
+Run Expo
+
+![App Landing](./assets/git/expo.png)
+
+Appwrite Dashboard
+
+![Appwrite](./assets/git/appwrite.png)
